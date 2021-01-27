@@ -29,11 +29,11 @@
 .main-images {
   border-radius: 20px;
   margin: 20px 0 0 4px;
-  box-shadow: 0 0 0 10px #D6CCA9;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 75%;
+  box-shadow: 2px 4px 8px 3px #8a795d;
 }
 
 .polaroid-image {
@@ -66,7 +66,7 @@
 }
 
 .polaroid-description {
-  font-size: 25px;
+  font-size: 20px;
   width: 40%;
   margin: auto;
   border: 3px solid;
