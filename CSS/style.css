@@ -59,7 +59,15 @@
   background-size: 100%;
 }
 
-.main-images {
+#tribute-info {
+  font: optional;
+}
+
+#img-caption {
+  font: optional;
+}
+
+#image {
   border-radius: 20px;
   margin: 20px 0 0 4px;
   display: block;
@@ -107,3 +115,6 @@
   left: 230px;
 }
 
+img {
+  max-width: 99%;
+}
