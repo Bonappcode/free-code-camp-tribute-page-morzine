@@ -9,12 +9,11 @@
 }
 
 .divimage {
-  position: absolute;
+  position: relative;
   top: 0;
   left: 15.5%;
   width: 150vw;
   height: 10vw;
-
   background: url(https://lh3.googleusercontent.com/SieL1yWwvXGVs8nEKsSYQ9VcshmCj1RP2rzehPKhQmhIiuCuE0oEqAad70JeDGThY_mX40p3vx9t_F82ZsxDKDodlTYIVlLrwSaFwlJn5913pYYGKgRHlDwL1lGApigqxUnqF9Q5ViahBfBUBvSUV3jZZcYzF-BffiExI4c32SaGUxs8WAnHconLCcErD6GcWXySI7AY7_xuPOV0c4hvnMct5Bbjl5HteCf0j_B2AgpC-Pmsnh__VM9Iq5ivuIkDe-kRdE166VbS0VeLi67bJz6ZLQMY0J82eK7vC6ma-8CC-TxFw9butd9O7la85S3OerY8sj4C40jZih8jfwuZBRYTVOyw7k52TQTyoxvhFhDvmSjVdljumOdqGv5VRSfBdkQbpEIvlyde4NkzorX22NGJBTMMkWP5hXCAczqPt9-EMxde-K9mQT8YDnkl6UmVuZg0qf_xEwXuBX5ujKAuzMZZJh1Xa9CHMB_CyFfzzpk9wqdLaSLNsWCb7DQ1pNRIQ_aU0j1I01W-iCvnqrlyO4TEAFgb0xgdnr8RNiud9GFO6iAByvYyWHWXFxjg9Vsk2_FseqaQ8IYWmYHXwsSJHK9iuxGcqRq_D6vsv6-elm79H4_RE0Klq2vjen25kckYBDeIKgcvB7LHA1FF8tobbI95UG0tJURY_pqXUv88TnG0Y-8m7gFJGMlUOwHD3Q=w624-h251-no?authuser=0);
   background-repeat: no-repeat;
   background-size: 50% auto;
@@ -100,7 +99,7 @@
 }
 
 .polaroid-description {
-  font-size: 20px;
+  font-size: 99%;
   width: 40%;
   margin: auto;
   border: 3px solid;
